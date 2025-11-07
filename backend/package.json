@@ -16,7 +16,8 @@
   "qrcode": "^1.5.4",
   "speakeasy": "^2.0.0",
   "sqlite3": "^5.1.6",
-  "bcryptjs": "^2.4.3"
+  "bcryptjs": "^2.4.3",
+  "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
     "jest": "^29.0.0",
